@@ -74,7 +74,7 @@ const Signup = ({ isOpen, setIsOpen }) => {
                                                     id="fullname"
                                                     value={userData.fullname}
                                                     onChange={handleChange}
-                                                    placeholder="Shiva Kanchi   "
+                                                    placeholder="Sneh Agrawal   "
                                                     className="w-full border border-gray-400 px-3 py-2 rounded-lg focus:border-zomato-400"
                                                     required
                                                 />
